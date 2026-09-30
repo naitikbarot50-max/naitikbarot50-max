@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Naitik Barot
 
-<!--
-**naitikbarot50-max/naitikbarot50-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Information Technology Student  
+💻 Interested in Software Development & Cybersecurity  
+🔐 Exploring Cybersecurity, Networking and Ethical Hacking
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- HTML & CSS
+- Networking
+- Cybersecurity Basics
+
+## 🌱 Currently Learning
+
+- Advanced Java
+- Cybersecurity & Ethical Hacking
+- Linux
+- Git & GitHub
+- Web Security
+
+## 🚀 Projects
+
+Coming soon...
+
+I am currently building practical projects to improve my programming and cybersecurity skills.
+
+## 🎯 Career Goal
+
+To build a strong career in IT by continuously learning, creating practical projects, and solving real-world problems.
+
+## 📫 Connect With Me
+
+GitHub: [@naitikbarot50-max](https://github.com/naitikbarot50-max)
